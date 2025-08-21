@@ -1,0 +1,694 @@
+{
+  "metadata": {
+    "created_at": "2025-08-19T09:28:40.395083",
+    "total_paragraphs": 82,
+    "total_chunks": 49
+  },
+  "chunks": [
+    {
+      "paragraphs": [
+        {
+          "content": "# **Drug Therapy in the Heart Transplant Recipient Part II: Immunosuppressive Drugs**",
+          "type": "header",
+          "level": 1
+        }
+      ],
+      "chunk_number": 1,
+      "title": "Introduction",
+      "description": "Initial content"
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "JoAnn Lindenfeld, MD; Geraldine G. Miller, MD; Simon F. Shakar, MD; Ronald Zolty, MD; Brian D. Lowes, MD; Eugene E. Wolfel, MD; Luisa Mestroni, MD; Robert L. Page II, PharmD; Jon Kobashigawa, MD",
+          "type": "text",
+          "level": 0
+        },
+        {
+          "content": "Part I of this series describes the mechanisms and types of rejection and the intravenous immunosuppressive drugs commonly used for induction or antirejection therapy. In this article, we review the commonly used oral immunosuppressive drugs. Intravenous corticosteroid methylprednisolone is included in the discussion of corticosteroids. Table 1 gives trade names, pharmacology, necessary adjustments for renal or hepatic dysfunction, and dosing and general monitoring guidelines for drugs described in this section. Table 2 lists the major adverse effects of immunosuppressive drugs described in Parts I and II of this review and provides an estimate of their relative frequency.",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 2,
+      "title": "Immunosuppressive Drugs",
+      "description": "Heart transplant recipient drug therapy part two"
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "# **Corticosteroids (Steroids)**",
+          "type": "header",
+          "level": 1
+        },
+        {
+          "content": "Steroids, among the first immunosuppressive agents used in clinical transplantation, have remained an important component of induction, maintenance, and rejection regimens.",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 3,
+      "title": "Drug Therapy in Heart Transplant",
+      "description": "Immunosuppressive drugs for heart transplant recipients"
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "## **Mechanism of Action**",
+          "type": "header",
+          "level": 2
+        },
+        {
+          "content": "Glucocorticoids are potent immunosuppressive and antiinflammatory agents (the Figure). They diffuse freely across cell membranes and bind to high-affinity cytoplasmic glucocorticoid receptors. The glucocorticoid receptor–steroid complex translocates to the nucleus, where it binds to a glucocorticoid response element within the DNA.1 The glucocorticoid receptor–steroid complex may also bind to other regulatory elements, inhibiting their binding to DNA. Both actions cause transcriptional regulation, thereby altering the expression of genes involved in immune and inflammatory response. Glucocorticoids affect the number, distribution, and function of all types of leukocytes (T and B lymphocytes, granulocytes, macrophages, and monocytes), as well as endothelial cells.2 The major effect on lymphocytes appears to be mediated by inhibition of 2 transcription factors, activator protein-1 and nuclear factor (NF) -B.3,4 This affects the expression of a number of genes, including those for growth factors, cytokines, CD40 ligand, GM-CSF, and adhesion and myosin heavy chain molecules.2 In nonlymphoid cells, steroids cause a decrease in the production of vasoactive and chemoattractant factors and lipolytic and proteolytic enzymes. This results in inhibition of neutrophil adhesion to endothelial cells, prevention of macrophage differentiation, and downregulation of endothelial function, including decreases in myosin heavy chain expression. Some of the antiinflammatory effects of steroids are regulated through the release of lipocortin, which acts by inhibiting phospholipase A2, thus inhibiting the production of leukotrienes and prostaglandins.5,6",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 4,
+      "title": "Drug Therapy in Heart Transplant Recipient Part II",
+      "description": "Immunosuppressive drugs used in heart transplant recipients, including corticosteroids."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "## **Uses and Clinical Trials**",
+          "type": "header",
+          "level": 2
+        },
+        {
+          "content": "Steroid therapy is a standard component of induction, maintenance, and antirejection therapy in heart transplant recipients. High-dose steroids are generally administered intraoperatively and postoperatively with gradual tapering of doses over months. Pulse steroids, either oral or intravenous, are generally the first treatment for moderate rejection (grade 3A or 3B) without hemodynamic compromise. Approximately 80% to 85% of these rejection episodes respond to the initial corticosteroid regimen.7,8",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 5,
+      "title": "Oral Immunusuppressive Drugs",
+      "description": "Review of oral immunosuppressive drugs used in clinical transplantation."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "## **Adverse Effects**",
+          "type": "header",
+          "level": 2
+        },
+        {
+          "content": "Steroids are associated with the largest number of long-term adverse effects. The cosmetic effects are particularly troubling to many patients. Hypertension, emotional lability, cataracts, gastric ulcer, poor wound healing, and proximal myopathy are all associated with steroid therapy. Cosmetic effects include hirsutism, acne, easy bruising, skin fragility, moon face, buffalo hump, weight gain, and truncal obesity. Important metabolic effects are hyperlipidemia, salt and water retention, diabetes mellitus, osteopenia, and growth retardation in children.1,6 Long-term administration of steroids may result in chronic adrenal suppression, and adrenal insufficiency can follow a steroid taper or \"stress\" (illness,",
+          "type": "text",
+          "level": 0
+        },
+        {
+          "content": "**(***Circulation.* **2004;110:3858-3865.)**",
+          "type": "text",
+          "level": 0
+        },
+        {
+          "content": "*Circulation* **is available at http://www.circulationaha.org DOI: 10.1161/01.CIR.0000150332.42276.69**",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 6,
+      "title": "Glucocorticoids Mechanism",
+      "description": "Immunosuppressive and antiinflammatory effects on leukocytes"
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "Received March 16, 2004; revision received July 23, 2004; accepted September 30, 2004.",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 7,
+      "title": "Steroid therapy in heart transplant recipients",
+      "description": "Adverse effects of steroid therapy in heart transplant patients, including cosmetic and metabolic issues."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "From the Division of Cardiology (J.L., S.F.S., R.Z., B.D.L., E.E.W., L.M.), Center for Women's Health Research (J.L.), and Department of Clinical Pharmacy (R.L.P.), University of Colorado Health Sciences Center, Denver, Colo; Denver VA Medical Center, Denver, Colo (S.F.S.); Division of Infectious Diseases, Vanderbilt University (G.G.M.), Nashville, Tenn; and Division of Cardiology, University of California, Los Angeles (J.K.).",
+          "type": "text",
+          "level": 0
+        },
+        {
+          "content": "This is Part II of a 4-part series. Part I appeared in the December 14, 2004, issue of the journal (*Circulation*. 2004;110:3734 –3740); Part III will appear in the January 4/11, 2005, issue; and Part IV will appear in the January 18, 2005, issue.",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 8,
+      "title": "Adverse Effects of Steroids",
+      "description": "Steroid therapy's long-term adverse effects, including cosmetic and metabolic issues."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "Correspondence to JoAnn Lindenfeld, MD, Division of Cardiology, University of Colorado Health Sciences Center, 4200 E Ninth Ave, B-130, Denver, CO 80262. E-mail joann.lindenfeld@UCHSC.edu",
+          "type": "text",
+          "level": 0
+        },
+        {
+          "content": "<sup>© 2004</sup> American Heart Association, Inc.",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 9,
+      "title": "Circulation Article",
+      "description": "Brief article on circulation available at http://www.circulationaha.org, DOI: 10.1161/01.CIR.0000150332.42276.69."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "|                                                                                                   |                                               |                                                                                                                                                                     | Adjustment for                                                          |                                                  |                                                                                   | Dosing                                                                                                                                                            |                                                                                                                                                                                                                   | |---------------------------------------------------------------------------------------------------|-----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| |                                                                                                   |                                               |                                                                                                                                                                     | Renal/Hepatic                                                           |                                                  |                                                                                   |                                                                                                                                                                   |                                                                                                                                                                                                                   | | Drugs                                                                                             | Trade Name                                    | Pharmacology                                                                                                                                                        | Dysfunction                                                             | Oral                                             | Intravenous                                                                       | Comments                                                                                                                                                          | Monitoring                                                                                                                                                                                                        | | Prednisone                                                                                        | • Deltasone<br>• Generic                      | Processed in the liver<br>and metabolites<br>excreted in the urine                                                                                                  | Consider prednisolone if<br>hepatic dysfunction                         | X                                                |                                                                                   | • Intra and post: Solumedrol<br>5–10 mg/kg pre- or<br>intraoperatively and 5–7<br>mg/kg in 3 divided doses                                                        | No currently available<br>monitoring tool except<br>clinical response                                                                                                                                             | | Prednisolone                                                                                      | Generic                                       | Prednisone is<br>converted to<br>prednisolone in liver                                                                                                              | No                                                                      | X                                                |                                                                                   | over next 24 h; then<br>rapidly tapered from 1 to<br>0.3 mg  kg1  d1 at 3–6                                                                                       |                                                                                                                                                                                                                   | | Methyl<br>prednisolone                                                                            | • Medrol                                      | Prednisone and<br>prednisolone have 4–5<br>times potency of                                                                                                         | No                                                                      | X                                                |                                                                                   | mo to 0.1 mg  kg1  d1<br>at 6 mo<br>• For rejection:prednisone                                                                                                    |                                                                                                                                                                                                                   | |                                                                                                   | • Solumedrol                                  | hydrocortisone                                                                                                                                                      |                                                                         | X                                                |                                                                                   | 1–3 mg  kg1  d1 PO for<br>3–7 d or solumedrol 3–10<br>mg  kg1  d1 IV; lower<br>doses have been used<br>successfully9                                              |                                                                                                                                                                                                                   | | AZA                                                                                               | Imuran                                        | Converted in liver<br>to 6-mer                                                                                                                                      | Decrease dose for renal<br>dysfunction                                  | X                                                | X                                                                                 | • 1–2 mg  kg1  d1 PO<br>or IV                                                                                                                                     | • Monitoring of levels is not<br>clinically available                                                                                                                                                             | |                                                                                                   |                                               | captopurine, which is<br>inactivated by xanthine<br>oxidase or TMPT<br>predominantly in the<br>liver                                                                | and lower dose range<br>for hepatic dysfunction                         |                                                  |                                                                                   | • Rarely used<br>3 mg/kg<br>• IV and oral the same dose                                                                                                           | • Dose is decreased if white<br>blood cells 3000–4000<br>• Major drug interaction<br>with allopurinol55<br>• Polymorphisms in TMPT<br>may increase effect56                                                       | | MMF                                                                                               | Cellcept                                      | Rapidly hydrolyzed to<br>mycophenolic acid<br>(MPA) and MPA to its<br>gluronide, which is<br>excreted in urine and<br>bile                                          | 1000 mg BID<br>                                                         | X                                                | X                                                                                 | • 500–1500 mg BID<br>• Higher doses have been<br>used when monitoring<br>trough MPA levels<br>• IV and oral the same dose                                         | • Monitoring of MPA levels<br>is controversial, but trough<br>levels of 2.5–5.0 g/mL<br>have been suggested57,58<br>• CSA inhibits enterohepatic<br>circulation of MPA,<br>decreasing exposure and<br>levels59,60 | | CIs:<br>Cyclosporine<br>• Oil-based                                                               | • Sandimmune<br>• Generic                     | Oil-based formulation<br>has unpredictable<br>absorption secondary<br>to need for<br>emulsification by bile                                                         | Hepatic dysfunction:<br>decrease dose by half<br>and follow levels61,62 | 4–8<br>mg  kg1  d1<br>in 2 divided<br>doses      | 1–2<br>mg/kg/day in<br>2 divided<br>doses or as<br>continuous                     | • Dosing is high early after<br>transplantation and<br>gradually decreases over<br>time<br>• Drugs that inhibit CYP-3A4                                           | • Abbott TDX assay most<br>commonly used65<br>• Cyclosporine trough levels<br>have been routinely used<br>with levels of 300–350                                                                                  | | • Modified<br>(oil-based<br>formulation is<br>not<br>bioequivalent to<br>modified<br>preparation) | • Neoral<br>• Gengraf<br>• Other—<br>generics | salts<br>Modified for more<br>predictable<br>absorption63,67<br>Both forms extensively<br>metabolized by<br>CYP-3A4 and are<br>substrates and<br>inhibitors of p-GP |                                                                         |                                                  | infusion                                                                          | and p-GP may result in<br>significantly higher<br>levels63,64<br>• IV dose is 1/3–1/4 of oral<br>dose<br>• IV may be best<br>administered in 2 6-h<br>infusions27 | ng/mL early<br>postoperatively decreasing<br>to 200 at 2 y8<br>• Levels at 2 h postdose<br>appear to more accurately<br>estimate area under the<br>curve and may result in<br>lower doses65,66                    | | TAC                                                                                               | Prograf                                       | Metabolized by<br>CYP-3A4 and is<br>inhibitor and substrate<br>of p–glycoprotein                                                                                    | Follow levels for hepatic<br>dysfunction6869                            | 0.05–0.1<br>mg  kg1  d1<br>in 2 divided<br>doses | 0.01–0.02<br>mg  kg1  d1<br>in 2 divided<br>doses or as<br>continuous<br>infusion | • Doses are high early after<br>transplantation and<br>decrease over time<br>• Drugs that inhibit<br>CYP3A-4 or p-GP may<br>result in higher levels               | • Whole-blood levels of<br>10–15 ng/mL early after<br>transplantation and 5–10<br>ng/mL at 2 y are targets36                                                                                                      | | TOR inhibitors:<br>Rapamycin (SIR)                                                                | Rapamune                                      | CYP-3A4 and p-GP<br>substrate                                                                                                                                       | <br>33% 2 if hepatic<br>dysfunction7046                                 | X                                                |                                                                                   | • 2 mg/d in 1 dose (may be<br>preceded by a single 6-mg<br>loading dose)                                                                                          | • Whole-blood trough levels<br>of 5–15 ng/mL<br>• Coadministration with CSA<br>may increase CSA levels<br>as much as 100%71<br>• Dose 4 h apart with CSA<br>or TAC                                                | | Everolimus                                                                                        | Certican                                      | CYP-3A4 and p-GP<br>substrate                                                                                                                                       | <br>33% 2 if hepatic<br>dysfunction                                     | X                                                |                                                                                   | Not yet approved                                                                                                                                                  |                                                                                                                                                                                                                   |",
+          "type": "table",
+          "level": 0
+        }
+      ],
+      "chunk_number": 10,
+      "title": "Received March 16, 2004; revision received July 23, 2004; accepted September 30, 2004.",
+      "description": "From the Division of Cardiology (J.L., S.F.S., R.Z., B.D.L., E.E.W., L.M.), Center for Women's Health Research (J.L.), and Department of Clinical Pharmacy (R.L.P.), University of Colorado Health Sciences Center, Denver, Colo; Denver VA Medical Center, Denver, Colo (S.F.S.); Division of Infectious Diseases, Vanderbilt University (G.G.M.), Nashville, Tenn; and Division of Cardiology, University of California, Los Angeles (J.K.). This is Part"
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "| Commonly Used Oral (and Intravenous) Immunosuppressive Drugs | TABLE 1. |  |  |  |  |  | |--------------------------------------------------------------|----------|--|--|--|--|--| |--------------------------------------------------------------|----------|--|--|--|--|--|",
+          "type": "table",
+          "level": 0
+        }
+      ],
+      "chunk_number": 11,
+      "title": "Cardiology Series Part II",
+      "description": "Continuation of a 4-part series on cardiology research"
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "TMPT indicates thiopurine methyltransferase; CYP, cytochrome P450; and p-GP, p-glycoprotein.",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 12,
+      "title": "Part II of Series",
+      "description": "Continuation of 4-part series on cardiovascular health"
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "surgical procedures, infections). \"Stress\" doses of hydrocortisone should be administered short term.",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 13,
+      "title": "Correspondence to JoAnn Lindenfeld",
+      "description": "Correspondence details with Dr. JoAnn Lindenfeld regarding cardiology at the University of Colorado Health Sciences Center.\n\n[[ ## completed"
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "# **Antiproliferative Agents**",
+          "type": "header",
+          "level": 1
+        },
+        {
+          "content": "Azathioprine (AZA) and mycophenolate mofetil (MMF) are the antiproliferative agents used commonly after heart transplantation.",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 14,
+      "title": "Adjustment for Dosing",
+      "description": "Brief overview of adjusting dosing guidelines from American Heart Association."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "## **Azathioprine**",
+          "type": "header",
+          "level": 2
+        }
+      ],
+      "chunk_number": 15,
+      "title": "Commonly Used Oral (and Intravenous) Immunosuppressive Drugs",
+      "description": "List of commonly used oral and intravenous immunosuppressive drugs, including antiproliferative agents."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "#### *Mechanism of Action*",
+          "type": "header",
+          "level": 4
+        },
+        {
+          "content": "AZA is a prodrug that is converted rapidly by plasma esterases or nonenzymatically by glutathione to 6-mercaptopurine, which is further converted to thio-inosinemonophosphate, its active metabolite (the Figure).9 Thioinosine-monophosphate is converted to a purine analog and incorporated into DNA, inhibiting its synthesis and the proliferation of both T and B lymphocytes.",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 16,
+      "title": "Antiproliferative Agents",
+      "description": "Description of antiproliferative agents used in heart transplantation."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "#### *Uses and Clinical Trials*",
+          "type": "header",
+          "level": 4
+        }
+      ],
+      "chunk_number": 17,
+      "title": "Antiproliferative Agents",
+      "description": "Azathioprine and mycophenolate mofetil are antiproliferative agents used after heart transplantation."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "AZA is generally used as maintenance therapy in combination with steroids and a calcineurin inhibitor (CI). AZA has Food and Drug Administration (FDA) approval as an adjunct for the prevention of rejection in renal transplantation. Early initial immunosuppressive protocols in human heart transplantation used AZA combined with prednisone, resulting in a 1-year survival of 60% to 65% and 5-year actuarial survival of 35% to 40%.10,11 The development of cyclosporine (CSA) resulted in substantial increases in survival.12 CSA in combination with either prednisone or AZA is less effective than therapy with all 3 agents.11 Compared with dual therapy, triple therapy has been shown to have a decreased incidence of renal failure, infections, use of cytolytic drugs, and lymphoproliferative diseases.13",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 18,
+      "title": "Azathioprine Mechanism",
+      "description": "Antiproliferative agents used after heart transplantation"
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "#### *Adverse Effects*",
+          "type": "header",
+          "level": 4
+        },
+        {
+          "content": "The major side effect of AZA is myelosuppression, including leukopenia, anemia, and thrombocytopenia (Table 2). These side effects are generally dose dependent and resolve in 7 to 10 days with dose reduction. Pancreatitis, hepatitis, and hepatic venoocclusive disease can occur but are rare. Skin cancers, once thought to be related primarily to AZA, are now thought to be related to the overall level of immunosuppression.14",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 19,
+      "title": "Mechanism of Action AZA",
+      "description": "Azathioprine's mechanism of action involves conversion to 6-mercaptopurine, inhibiting DNA synthesis in T and B lymphocytes."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "## **Mycophenolate Mofetil**",
+          "type": "header",
+          "level": 2
+        }
+      ],
+      "chunk_number": 20,
+      "title": "AZA Mechanism and Uses",
+      "description": "AZA mechanism, uses, and clinical trials for renal transplantation"
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "MMF is a noncompetitive inhibitor of inosine monophosphate dehydrogenase, a key enzyme in the de novo synthesis of guanine nucleotides. Proliferating lymphocytes are dependent on this pathway because it is the only pathway for the purine synthesis and DNA replication. Other cells use both de novo and salvage pathways for purine synthesis. Therefore, MMF is a selective inhibitor of lymphocyte proliferation. In vivo and in vitro mycophenolic acid inhibits lymphocyte proliferation in response to allogeneic stimulation without inhibiting the growth of other cell lines.15",
+          "type": "text",
+          "level": 0
+        },
+        {
+          "content": "MMF is FDA approved for rejection prophylaxis in renal, hepatic, and cardiac transplant recipients. Initial human clinical trials in heart transplant recipients suggested that MMF was well tolerated and as efficacious as AZA with less myelosuppression.15 A subsequent large, prospective, multicenter, randomized trial compared AZA and MMF in combination with CSA and steroids. Eleven percent of the patients withdrew before receiving drug because an intravenous form was not available.16 In an intention-to-treat analysis, there was no difference in survival or rejection, but in an analysis of treated patients, there was a reduction in mortality at 1 year (6.2% versus 11.4%; *P*0.031) and a reduction in rejection requiring treatment (65.7% versus 73.7%; *P*0.026) in the MMF patients. The Joint UNOS/ISHLT Thoracic Registry has been analyzed for differences in the effects of MMF and AZA in patients on a CSA-based regimen.17 Patients treated with MMF had an actuarial survival benefit (1 year, 96% versus 93%; 3 year, 91% versus 86%; *P*0.0012). These results are similar to those in renal transplant recipients. MMF is effective in reversing recurrent rejection when used in place of AZA.18,19 In patients with chronic renal dysfunction, switching from AZA to MMF in combination with CSA reduction or withdrawal to improve renal function has also been used as an effective strategy.20 Despite the tolerability and beneficial effects of MMF, it has not replaced AZA entirely, predominantly because of its cost (Table 3). A few transplantation centers still use AZA primarily and reserve MMF for patients with high risk of rejection, recurrent rejection, or intolerance to AZA.",
+          "type": "text",
+          "level": 0
+        },
+        {
+          "content": "MMF is usually well tolerated (Table 2). Major side effects include nausea, vomiting, and diarrhea, which usually are responsive to a decrease in dosage.21 The toxicity of MMF may be more closely related to the mycophenolic acid levels than the dose. The risk of opportunistic infections appears to be higher in patients treated with MMF when compared with AZA (53.3% versus 43.6% *P*0.025 at one year).16",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 21,
+      "title": "Use of AZA in Clinical Trials",
+      "description": "AZA's use as maintenance therapy in combination with steroids and a calcineurin inhibitor, its FDA approval, and adverse effects."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "# **Calcineurin Inhibitors**",
+          "type": "header",
+          "level": 1
+        }
+      ],
+      "chunk_number": 22,
+      "title": "Side effects of AZA",
+      "description": "The major side effect of AZA is myelosuppression, including leukopenia, anemia, and thrombocytopenia."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "Currently available CIs include CSA and tacrolimus (TAC). CIs have become the cornerstone of maintenance therapy. CSA is a lipophilic undecapeptide.",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 23,
+      "title": "Mycophenolate Mofetil",
+      "description": "Noncompetitive inhibitor of inosine monophosphate dehydrogenase, selective lymphocyte proliferation inhibitor."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "## **Cyclosporine**",
+          "type": "header",
+          "level": 2
+        },
+        {
+          "content": "Both CSA and TAC act by blocking calcium-activated calcineurin (the Figure).22,23 CSA and TAC enter the cell primarily through diffusion and bind to different immunophilins: CSA to cyclophilin and TAC to FK binding protein 12 (FKBP-12). The complex of drug and immunophilin binds to calcineurin, a phosphatase that dephosphorylates multiple molecules, including NF-AT (NF of activated T cells). Dephosphorylated NF-AT translocates to the nucleus, where it binds to specific DNA sites in the promoter regions of several cytokine genes, including interleukin (IL)-2. Thus, both CSA and TAC inhibit transcription of IL-2 and other cytokines.24 CSA also stimulates transforming growth factor- production, which contributes to its immunosuppressive activity.25",
+          "type": "text",
+          "level": 0
+        },
+        {
+          "content": "| TABLE 2. |  |  | Major Adverse Effects of Immunosuppressive Drugs |  | |----------|--|--|--------------------------------------------------|--| |----------|--|--|--------------------------------------------------|--|",
+          "type": "table",
+          "level": 0
+        }
+      ],
+      "chunk_number": 24,
+      "title": "MMF Inhibits Lymphocyte Proliferation",
+      "description": "MMF is a noncompetitive inhibitor of inosine monophosphate dehydrogenase, selectively inhibiting lymphocyte proliferation."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "|                                          | Steroids | AZA | MMF | CYA | TAC | SIR   | DAC BAS | OKT3 | ATGAM | Thymo | |------------------------------------------|----------|-----|-----|-----|-----|-------|---------|------|-------|-------| | Potential for drug-drug interactions     | 1        | 1   | 1   | 4   | 4   | 4     |         |      |       |       | | Hypertension                             | 2        |     |     | 4   | 3   | 2 (?) |         | 3    | 3     | 3     | | Diabetes                                 | 3        |     |     | 1–2 | 2–3 |       |         |      |       |       | | Obesity                                  | 2        |     |     |     |     |       |         |      |       |       | | Hyperlipidemia*                          | 2        |     |     | 3   | 3   | 3–4   |         |      |       |       | | Renal insufficiency                      |          |     |     | 3   | 3   |       |         |      |       |       | | Osteoporosis                             | 3        |     |     | 1–2 | 1–2 |       |         |      |       |       | | Avascular necrosis                       | 1        |     |     |     |     |       |         |      |       |       | | Poor wound healing                       | 2        |     |     |     |     | 2†    |         |      |       |       | | Neurological minor tremors, paresthesias |          |     |     | 3   | 3   |       |         |      |       |       | | Neurological major seizures, cerebritis  |          |     |     | 1   | 1   |       |         | 1    | 1     | 1     | | Hirsutism                                | 2        |     |     | 3   |     |       |         |      |       |       | | Alopecia                                 |          | 1   |     |     | 2   |       |         |      |       |       | | Gingival hyperplasia                     |          |     |     | 3   |     |       |         |      |       |       | | GI‡                                      |          | 2   | 3   | 2   | 3   | 3     |         | 3    | 2     | 3     | | Hepatic toxicity                         |          | 2   |     | 1   | 2   | 1     |         |      | 1     |       | | Hypomagnesmia                            |          |     |     | 3   | 3   |       |         |      |       |       | | Hyperkalemia                             |          |     |     | 2   | 2   | 2     |         |      |       |       | | Hyperuricemia                            |          |     |     | 3   | 3   | 3     |         |      |       |       | | Anemia                                   |          | 2   | 3   |     |     | 3     |         |      |       |       | | Thrombocytopenia                         |          | 1   | 2   |     | 3   | 3     |         |      | 3     | 3     | | Neutropenia                              |          | 3   | 3   |     |     | 3     |         | 1    | 1     | 1     | | Cushingoid features                      | 3        |     |     |     |     |       |         |      |       |       | | Cytokine release syndrome–mild           |          |     |     |     |     |       |         | 4    | 3–4   | 3–4   | | Cytokine release syndrome–severe         |          |     |     |     |     |       |         | 1–2  | 0–1   | 0–1   | | Serum sickness                           |          |     |     |     |     |       |         |      | 1     | 0–1   |",
+          "type": "table",
+          "level": 0
+        }
+      ],
+      "chunk_number": 25,
+      "title": "Calcineurin Inhibitors",
+      "description": "Overview of calcineurin inhibitors, including cyclosporine and tacrolimus."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "DAC indicates daclizumab; BAS, basiliximab; and Thymo, thymoglobulin. 1Rare (5%); 2common (5%–15%); 3very common; 4most patients. \\*Hyperlipidemia (1 total cholesterol, 1 1 LDL cholesterol, 1 triglycerides) (16%–50%).",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 26,
+      "title": "Cyclosporine Mechanism",
+      "description": "Cyclosporine's mechanism of action as an immunosuppressant drug."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "†Wound healing (especially early after operation), -50%.",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 27,
+      "title": "Cyclosporine Mechanism",
+      "description": "Cyclosporine's mechanism of action involves blocking calcineurin, inhibiting transcription of IL-2 and other cytokines."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "‡Gastrointestinal (GI) problems (diarrhea, nausea, vomiting).",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 28,
+      "title": "Calcineurin Inhibition",
+      "description": "CSA and TAC block calcineurin, inhibiting cytokine transcription"
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "## *Uses and Clinical Trials*",
+          "type": "header",
+          "level": 2
+        },
+        {
+          "content": "CSA is approved by the FDA for prophylaxis of organ rejection in kidney, liver, and heart transplant recipients. The introduction of CSA in 1982 led to a marked improvement in clinical outcome of heart transplantation, with an increase in 3-year survival from 40% to 70%.12 The modified formulation was compared with the oil-based formulation in a randomized double-blind study of 380 patients followed up for 24 months.26 The primary end points of patient and graft survival and incidence and severity of acute rejection episodes were not different, but the modified formulation was associated with fewer episodes of rejection requiring antilymphocyte therapy (6.9% versus 17.7%, respectively) and a lower prednisone dose.26 Similar data in renal transplant recipients and the need for a 5% to 10% smaller daily dose have led to the widespread adoption of the modified formula.",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 29,
+      "title": "Major Adverse Effects",
+      "description": "Immunosuppressive drugs side effects and risks"
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "# *Adverse Effects*",
+          "type": "header",
+          "level": 1
+        },
+        {
+          "content": "CSA causes nephrotoxicity that can be acute, dose related or chronic with arteriolar sclerosis and tubulo-interstitial fibrosis (Table 2). Rarely, CSA nephrotoxicity may be manifested as a hemolytic-uremic syndrome. Hypertension and hyperlipidemia occur in most patients.27 De novo diabetes mellitus at 1 year is present as many as 10% of patients. Neurological toxicity includes tremor, paresthesias, headache, seizures, mental status changes, visual symptoms, and insomnia. CSA can cause nausea, vomiting, cholestasis, and cholelithiasis and contributes to the development of osteoporosis. Hypertrichosis, which occurs in at least 50% of patients, and gingival hyperplasia are side effects seen with CSA that do not occur with TAC.",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 30,
+      "title": "Uses and Clinical Trials",
+      "description": "Clinical trials and uses of CSA in organ transplant recipients, including improved survival rates."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "# **TOR Inhibitors**",
+          "type": "header",
+          "level": 1
+        }
+      ],
+      "chunk_number": 31,
+      "title": "Gastrointestinal Problems",
+      "description": "‡Gastrointestinal (GI) problems including diarrhea, nausea, and vomiting."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "## **Tacrolimus**",
+          "type": "header",
+          "level": 2
+        },
+        {
+          "content": "TAC was previously known as FK506. It is a macrolide and is produced by the fungus *Streptomyces tsukubaensis*.",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 32,
+      "title": "Uses and Clinical Trials of CSA",
+      "description": "CSA's uses in organ rejection prophylaxis, clinical trials, and adverse effects."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "## *Mechanism of Action*",
+          "type": "header",
+          "level": 2
+        },
+        {
+          "content": "TAC binds to the immunophilin FKBP-12 and inhibits calcineurin through a pathway similar to that of CSA (the Figure). It also increases the production of transforming growth factor-. 28",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 33,
+      "title": "Adverse Effects of CSA",
+      "description": "CSA causes nephrotoxicity, hypertension, hyperlipidemia, and other side effects."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "# *Uses and Clinical Trials*",
+          "type": "header",
+          "level": 1
+        }
+      ],
+      "chunk_number": 34,
+      "title": "TOR Inhibitors",
+      "description": "A brief overview of TOR inhibitors, specifically Tacrolimus, its mechanism of action, and effects on calcineurin."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "TAC is used in place of CSA in many maintenance immunosuppressive regimens. Conversion from CSA to TAC is",
+          "type": "text",
+          "level": 0
+        },
+        {
+          "content": "Immunological mechanisms leading to graft rejection and sites of action of immunosuppressive drugs. Immunological mechanisms are shown in blue; immunosuppressive drugs and their site of action are shown in red. Acute rejection begins with recognition of donor antigens that differ from those of recipient by recipient antigen presenting cells (APCs) (indirect allorecognition). Donor APCs (carried passively in graft) may also be recognized by recipient T cells (direct allorecognition). Alloantigens carried by APCs are recognized by TCR-CD3 complex on surface of T cell. When accompanied by costimulatory signals between APC and T cell such as B7-CD28, T-cell activation occurs, resulting in activation of calcineurin. Calcineurin dephosphorylates transcription factor NF-AT, allowing it to enter nucleus and bind to promoters of IL-2 and other cytokines. IL-2 activates cell surface receptors (IL-2R), stimulating clonal expansion of T cells (T helper cells). IL-2, along with other cytokines produced by T helper cells, stimulates expansion of other cells of immune system. Activation of IL-2R stimulates TOR, which regulates translation of mRNAs to proteins that regulate cell cycle. Sites of action of individual drugs (highlighted in red) demonstrate multiple sites of action of these drugs, underscoring rationale for combination therapy. GC indicates glucocorticoid recepotor; BAS, basiliximab; and DAC, daclizumab.",
+          "type": "text",
+          "level": 0
+        },
+        {
+          "content": "also used to treat recurrent rejection. TAC is approved for the prophylaxis of organ rejection in patients receiving allogeneic liver or kidney transplants. TAC has been prospectively compared with CSA in 3 small randomized trials. In the US multicenter trial that enrolled 85 patients,29 there was no difference in survival at 12 months (TAC, 89%; CSA, 91%) or in the incidence of significant rejection. Hyperlipidemia (41% versus 71%) and hypertension (48% versus 71%) requiring therapy were more common with CSA. The incidence of diabetes at 1 year was similar. In a European study that enrolled 82 patients and a University of Munich study with 73 patients, the results were similar to those of the US study.30,31 Long-term follow-up confirms the side-effect profile except for a high incidence of insulin-requiring diabetes mellitus with TAC (41% versus 7%). Other nonrandomized trials do not suggest significant differences between CSA and TAC in the frequency or severity of rejection.27 Studies in",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 35,
+      "title": "Tacrolimus Mechanism of Action",
+      "description": "Brief overview of Tacrolimus, its mechanism of action, and clinical uses."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "| TABLE 3.               | Cost of Oral Medications Used for Maintenance |  |  | |------------------------|-----------------------------------------------|--|--| | Immunosuppression72,73 |                                               |  |  |",
+          "type": "table",
+          "level": 0
+        }
+      ],
+      "chunk_number": 36,
+      "title": "Immunosuppressive Mechanisms",
+      "description": "TAC binds to FKBP-12, inhibiting calcineurin and increasing TGF-β production."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "| Medication     | Dose,* mg   | Cost per Month,† \\$ | |----------------|-------------|---------------------| | Prednisone     | 5 PO BID    | 4.36‡               | | AZA (Imuran)   | 150 PO QD   | 117.97‡             | | MMF (Cellcept) | 1000 PO BID | 687.46              | | CSA            | 150 PO BID  |                     | | Neoral§        |             | 549.96              | | Gengraf§       |             | 494.88              | | Sandimmune     |             | 624.30              | | CSA (generic)  | 150 PO BID  |                     | | (Apotoex Corp) |             | 561.14              | | (Eon Labs)§    |             | 494.40              | | (Sidmak Labs)§ |             | 494.40              | | TAC (Prograf)  | 3 PO BID    | 662.49              | | SIR (Rapamune) | 2 PO QD     | 450.00              |",
+          "type": "table",
+          "level": 0
+        }
+      ],
+      "chunk_number": 37,
+      "title": "Immunosuppressive Regimens",
+      "description": "Conversion from CSA to TAC in immunosuppressive regimens, including mechanisms of graft rejection."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "\\*Dose based on a 70-kg adult.",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 38,
+      "title": "Conversion from CSA to TAC",
+      "description": "Immunological mechanisms of graft rejection and immunosuppressive drug action."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "†Data are based on average wholesale price as of February 2003. Additional prescription fees are not included.",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 39,
+      "title": "Immunological mechanisms leading to graft rejection and sites of action of immunosuppressive drugs.",
+      "description": "Explanation of immunological mechanisms causing graft rejection and how immunosuppressive drugs work."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "‡Cost includes price for generic medication.",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 40,
+      "title": "TAC vs CSA in Transplantation",
+      "description": "Comparison of tacrolimus (TAC) and cyclosporine A (CSA) in organ transplantation."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "§ Modified formulation. Modified formulations should not be interchanged with oil-based formulations.",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 41,
+      "title": "Cost of Oral Medications Used for Maintenance",
+      "description": "A table listing oral medications used for immunosuppression, including their doses and monthly costs."
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "Oil-based formulation. Oil-based formulations should not be interchanged with modified formulations.",
+          "type": "text",
+          "level": 0
+        },
+        {
+          "content": "renal transplant recipients suggest a lower rate of acute rejection with TAC compared with CSA but no differences in patient or allograft survival.32,33 Many centers consider TAC the CI of first choice, especially in high-risk patients, because of a perceived decrease in the rate of acute rejection.34 Conversion of CSA to TAC as therapy for rejection is promising but is based on case series and not on randomized trials.35",
+          "type": "text",
+          "level": 0
+        },
+        {
+          "content": "The side effects of TAC are similar to those of CSA although the incidence of hypertension and hyperlipidemia are somewhat lower (Table 2).29 Hyperglycemia and neurological toxicity are more common with TAC than with CSA. Hyperglycemia is especially problematic at high doses and in some subgroups such as women and blacks.36 Diabetes may be more common when TAC is given with AZA than with MMF.37 Hirsutism and gingival hypertrophy do not occur with TAC; indeed, alopecia may be a side effect of TAC.",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 42,
+      "title": "Medication Costs",
+      "description": "Monthly costs and dosages for various medications"
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "## **Sirolimus or Rapamycin**",
+          "type": "header",
+          "level": 2
+        }
+      ],
+      "chunk_number": 43,
+      "title": "Side Effects of TAC vs CSA\n\n### Description:",
+      "description": "Comparison of side effects between tacrolimus and cyclosporine in renal transplant patients.\n\n### Completed:"
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "Sirolimus (SIR), first isolated in soil samples from Rapa-Nui (Easter Island), is a natural product of the actinomycete *Streptomyces hygroscopicus*. 38,39",
+          "type": "text",
+          "level": 0
+        },
+        {
+          "content": "A macrolide antibiotic, SIR has a structure similar to that of TAC. SIR binds to the same family of immunophilins as TAC, the FKBPs, but rather than blocking calcineurindependent T-cell activation, FKBP-SIR inhibits a kinase, the target of rapamycin (TOR) (the Figure). TOR phosphorylates proteins that are important in the regulation of the cell cycle, thus playing a critical role in connecting signals from the growth factor receptors to the cell nucleus for stimulation of growth and proliferation of T and B lymphocytes.40,41 Activation of TOR also signals proliferation of smooth muscle cells and endothelial cells in response to growth factors.42 This latter mechanism may explain why SIR inhibits arterial smooth muscle cell and endothelial cell proliferation and has been shown to prevent graft atherosclerosis in rat cardiac allografts, to prevent intimal hyperplasia after coronary stenting in native coronary artery disease, and to inhibit tumor growth in animals models.41– 43",
+          "type": "text",
+          "level": 0
+        },
+        {
+          "content": "Because SIR is a relatively new drug, clinical trial data come primarily from studies in renal transplant recipients.44 The FDA has approved the use of SIR in combination with CSA and steroids for the prophylaxis of rejection after renal transplantation. In 2 phase III trials in renal transplant recipients, SIR in 2 doses (2 and 5 mg/d) was combined with CSA and steroids and compared with placebo in the first study and with AZA in the second study. The mean incidence of acute rejection was significantly lower in both SIR groups compared with the placebo and AZA groups.45,46 In 2 other randomized trials in renal transplantation, Groth et al47 demonstrated that SIR was as effective as CSA when combined with AZA and prednisone in preventing acute rejection and graft loss, and Kreis et al48 found equivalent efficacy between SIR and CSA when combined with MMF and prednisone. In these 2 studies, renal function at 1 year was significantly better with SIR than with CSA. SIR has been used effectively in heart transplant recipients in place of CIs to treat rejection or to ameliorate renal dysfunction.49 The precise role of SIR in maintenance immunosuppression has not yet been determined for heart transplant recipients. It is hoped that potential benefits on chronic rejection will not be countered by hyperlipidemia, a common adverse effect of SIR.",
+          "type": "text",
+          "level": 0
+        },
+        {
+          "content": "Recently, an open-label prospective study of 46 patients with coronary allograft vasculopathy (CAV) randomized patients to the addition of SIR compared with continued current immunosuppression. Over a follow-up of 2 years, 3 patients in the SIR group compared with 14 in the placebo group developed clinically significant adverse events (death, need for angioplasty or bypass surgery, myocardial infarction, or a 25% worsening of the catheterization score) (*P*0.001).50 These antiproliferative effects on CAV have also been noted in a prospective study with everolimus (RAD).51",
+          "type": "text",
+          "level": 0
+        },
+        {
+          "content": "The major adverse effects of SIR include hyperlipidemia with hypertriglyceridemia and increased LDL cholesterol, thrombocytopenia, neutropenia, and anemia (Table 2)44 – 48. Hypercholesterolemia and hypertriglyceridemia are at least partially responsive to dose reduction.44 The long-term consequences of these lipid abnormalities and the safety and effectiveness of control with HMG-CoA reductase inhibitors or fibrates are not yet well established. Thrombocytopenia seems to be dose related and is reversible. Severe thrombocytopenia is rare. Neutropenia may also occur, but in the phase III multicenter studies, no patient developed absolute neutropenia. SIR exacerbates the adverse renal and other effects of CSA but does not appear to result in renal dysfunction or diabetes when given without a CI. SIR has been used in place of a CI with improved renal function.49 SIR has also been reported to adversely affect wound healing after renal and liver transplantation.52,53 A noninfectious pneumonitis has been reported with SIR.44",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 44,
+      "title": "TAC vs CSA Formulations",
+      "description": "Comparison of tacrolimus and cyclosporine formulations"
+    },
+    {
+      "paragraphs": [
+        {
+          "content": "## **Everolimus or RAD (Certican)**",
+          "type": "header",
+          "level": 2
+        },
+        {
+          "content": "RAD is an analog of SIR that has not yet been approved for clinical use. The preliminary reports from a number of studies in kidney, liver, and heart transplant recipients demonstrate positive results. In a randomized, double-blind, prospective trial, 634 cardiac transplant recipients were assigned to receive AZA (1 to 3 mg · kg<sup>1</sup> · d<sup>1</sup> ) or 2 doses of RAD (1.5 or 3 mg daily in 2 divided doses).51 The number of patients reaching the primary end point was lower in both groups given RAD, although bacterial infections were higher in the group given 3 mg/d RAD and creatinine was high in both RAD groups compared with the AZA group. Coronary intimal thickening and CAV were reduced by RAD, confirming the coronary antiproliferative effects noted with SIR.54 It is expected that the therapeutic benefits and side-effect profiles for RAD will be similar to those for SIR.55–73",
+          "type": "text",
+          "level": 0
+        }
+      ],
+      "chunk_number": 45,
+      "title": "Sirolimus Mechanism",
+      "description": "Inhibits TOR kinase, preventing cell proliferation"
+    }
+  ]
+}
